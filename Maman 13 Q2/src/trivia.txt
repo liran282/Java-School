@@ -1,0 +1,65 @@
+What is 35 / 2?
+17.5
+15.5
+15
+16.5
+
+What is 320 / 20?
+16
+20
+24
+8
+
+What is 13 * 4?
+52
+43
+60
+54
+
+What is 83 * 92?
+7636
+5427
+882
+8642
+
+What is the capital of Israel?
+Jerusalem
+Tel Aviv
+Netanya
+Haifa
+
+The leaning tower of Pisa is located in which city?
+Pisa
+Rome
+Milan
+Florence
+
+What igneous rock has a density less than water?
+Pumice
+Chalk
+Marble
+Slate
+
+Which city was the capital of the US in 1785-1790?
+New York
+Washington DC
+Boston
+Los Angeles
+
+What is the only snake that builds a nest for its eggs?
+King Cobra
+Python
+Anaconda
+Boa
+
+What is the largest country located entirely in Europe?
+Ukraine
+Italy
+France
+Russia
+
+What inland U.S. state has the longest shoreline?
+Michigan
+Texas
+Georgia
+Pennsylvania
